@@ -6,7 +6,7 @@
 
 Hi, I'm Leena! I'm a junior at NC State studying Computer Science and Business Analytics (minor in Data Science). This is my interactive portfolio, where I put the stuff I've built, the content I make, and the roles I've had in one place.
 
-**Live site:** https://leenarganta.github.io/digital_portfolio/
+**Live site:** [https://leenarganta.github.io/digital_portfolio/](https://leenarganta.github.io/digital_portfolio/)
 
 ---
 
